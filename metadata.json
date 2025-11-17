@@ -1,0 +1,5 @@
+{
+  "name": "Analisador de Álbuns com IA",
+  "description": "Um assistente de música para entusiastas, com tecnologia de IA. Insira um artista e um álbum para obter uma análise profunda e abrangente gerada pelo Gemini, completa com contexto cultural, análise faixa a faixa e genealogia sônica.",
+  "requestFramePermissions": []
+}
